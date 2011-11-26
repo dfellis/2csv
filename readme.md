@@ -22,6 +22,9 @@ performs more complex analyses on the data in the .twf file, producing csv data 
 ## txt2csv
 converts the HP4156 sampling-mode file data (.txt) into CSV
 
+## xls2csv2 & xls2csv3
+wrapper scripts around [xls2csv](http://www.wagner.pp.ru/~vitus/software/catdoc/) by V.B. Wagner used by [other utilities](https://github.com/dfellis/esd-utils).
+
 # License (MIT)
 
 Copyright (C) 2008-2011 by David Ellis
